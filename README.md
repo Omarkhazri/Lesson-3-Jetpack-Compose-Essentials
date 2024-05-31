@@ -1,1 +1,1 @@
-# Omarkhazri-Lesson-3-Jetpack-Compose-Essentials
+# Lesson-3-Jetpack-Compose-Essentials
